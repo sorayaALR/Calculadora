@@ -12,5 +12,3 @@
   
 </div><br>
 
- <h3>O projeto pode ser visto em:</h3>
- https://sorayaribeiro.github.io/Calculadora/
